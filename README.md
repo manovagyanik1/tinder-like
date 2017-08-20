@@ -1,4 +1,4 @@
-# Node.js samples
+# Tinder Autolike bot
 
 ## Prerequisites
 
